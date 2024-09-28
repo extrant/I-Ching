@@ -2,7 +2,7 @@
   "Author": "Siren",
   "Name": "I-Ching",
   "InternalName": "I-Ching",
-  "AssemblyVersion": "0.24.8.25",
+  "AssemblyVersion": "0.24.9.28",
   "Description": "乾坤震巽坎离艮兑 Hexagrams",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/extrant/I-Ching",
